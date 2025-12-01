@@ -1,0 +1,25 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+
+# Virtual environment files (if any)
+venv/
+
+# Docker build cache and output
+# Ignore the local output folder where the data is exported
+downloads/# Python files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+
+# Virtual environment files (if any)
+venv/
+
+# Docker build cache and output
+# Ignore the local output folder where the data is exported
+downloads/
